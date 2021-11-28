@@ -1,0 +1,33 @@
+.footer__area h3 {
+  font-weight: 600;
+}
+.footer__intro h1 {
+  color: #07003b;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.button {
+  background-color: #1ba370 !important;
+  border: none;
+  padding: 7px 15px;
+  color: white;
+}
+.button:hover {
+  background-color: #07003b !important;
+  color: white;
+}
+.input__email {
+  border: 1px solid #07003b;
+  width: 55%;
+}
+.footer__link::before {
+  content: "> ";
+  color: #07003b;
+}
+.input-group {
+  width: 100%;
+}
+.brand__logo {
+  height: 60px;
+  padding-bottom: 10px !important;
+}

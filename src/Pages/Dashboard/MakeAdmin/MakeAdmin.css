@@ -1,0 +1,39 @@
+.card {
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+h5 {
+  font-family: "Poppins", sans-serif;
+}
+
+#div1 {
+  border: 2px solid #efeff1;
+  border-radius: 5px;
+}
+
+.inp::placeholder {
+  color: #c9c9cb;
+  font-weight: 500;
+  opacity: 2;
+}
+.card__extra {
+  padding: 20px 20px !important;
+}
+
+.admin_btn {
+  font-family: "Poppins", sans-serif;
+  margin: 0px;
+  background-color: #1ba370 !important;
+  border-radius: 5px;
+}
+
+.btn:focus {
+  box-shadow: none;
+  outline: none;
+}
+
+*:focus {
+  outline: none;
+  box-shadow: none;
+}

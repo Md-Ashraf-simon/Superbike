@@ -1,0 +1,10 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url("https://imgs.bharatmatrimony.com/bmimgs/login/login-otp-banner.png");
+
+  background-position: center center;
+}

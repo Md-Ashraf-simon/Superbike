@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "profession": "Sales Manager",
+    "rating": 5,
+    "image": "https://templatekits.themewarrior.com/roadpedal/wp-content/uploads/sites/29/2021/08/testi03.jpg",
+    "review": "Great selection of bikes and very helpful staff. They are willing to help you learn something verses judging you like other bike shops . Will be back again. Thanks to Alan for the help."
+  },
+  {
+    "id": 2,
+    "name": "Quin Nolan",
+    "profession": "Sales Manager",
+    "rating": 5,
+    "image": "https://templatekits.themewarrior.com/roadpedal/wp-content/uploads/sites/29/2021/08/testi06.jpg",
+    "review": "Took my bike for service. Totally worth the money, they made it look and ride like the day i bought it. Ask for Turner, the kid knows bikes. A+ couldn't be happier!"
+  },
+  {
+    "id": 3,
+    "name": "Hayden Read",
+    "profession": "Sales Manager",
+    "rating": 5,
+    "image": "https://templatekits.themewarrior.com/roadpedal/wp-content/uploads/sites/29/2021/08/testimo1.jpg",
+    "review": "Brandon helped me out with some knowledge and assistance on a bicycle someone gave me and he did an amazing job! Great customer service here."
+  }
+]

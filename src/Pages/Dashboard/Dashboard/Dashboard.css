@@ -1,0 +1,12 @@
+button.btn.sidebar__btn.w-100 {
+  background-color: #1ba370;
+  color: white;
+  font-family: "Poppins", "sans-serif";
+  padding: 15px 0;
+  margin-bottom: 10px;
+  font-size: 18px;
+  text-align: left;
+}
+.is-active {
+  background-color: yellow !important;
+}

@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Poppins:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap");
+:root {
+  --primary: #ff8f00;
+  --secondary: #2ba8db;
+  --common: #07003b;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif !important;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+}
+
+.footer__area h3 {
+  font-weight: 600;
+}
+.footer__intro h1 {
+  font-family: "Poppins", sans-serif;
+  color: #07003b;
+  font-weight: 600;
+}
+.button {
+  background-color: #ef720c !important;
+  border: none;
+  padding: 7px 15px;
+  color: white !important;
+}
+.button:hover {
+  background-color: #07003b !important;
+  color: white;
+}
+.input__email {
+  border: 1px solid #07003b;
+  width: 55%;
+}
+.footer__link::before {
+  content: "> ";
+  color: #07003b;
+}
+.input-group {
+  width: 100%;
+}
+
+.carousel-caption {
+  text-align: left;
+  top: 20%;
+  left: 10%;
+}
+.carousel-caption h1 {
+  font-size: 62px;
+  line-height: 70px;
+  color: #07003b;
+  font-weight: bold;
+  justify-content: end;
+}
+.carousel-caption p {
+  color: #07003b;
+  font-weight: 400;
+}
+.primary__button {
+  font-family: "Poppins", sans-serif;
+  background-color: #ef720c !important;
+  border: 2px solid #ef720c;
+  padding: 10px 40px;
+  border-radius: 40px;
+  text-transform: uppercase;
+}
+.primary__button:hover {
+  background-color: white !important;
+  border: 2px solid #ef720c;
+  color: #07003b;
+}
+
+@media (max-width: 480px) {
+  .carousel-caption {
+    display: block;
+    text-align: left;
+    top: 10%;
+    left: 10%;
+  }
+  .carousel-caption h1 {
+    font-size: 20px;
+    line-height: 23px;
+  }
+  .carousel-caption p {
+    display: none;
+  }
+  .primary__button {
+    padding: 5px 15px !important;
+    font-size: 15px !important;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  .carousel-indicators {
+    display: none;
+  }
+}
+
+.card-title {
+  font-weight: 600;
+}
+
+.card-title {
+  font-size: 26px;
+}
+.image__area img {
+  max-width: 400px !important;
+}
+.image__area {
+  background-color: white;
+  border-radius: 50%;
+}

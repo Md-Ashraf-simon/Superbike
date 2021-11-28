@@ -1,0 +1,12 @@
+.card {
+  padding: 20px 0px !important;
+}
+
+img.card-img-top {
+  padding: 0px 10px !important;
+}
+.cart_btn {
+  background-color: #1ba370 !important;
+  color: white !important;
+  padding: 6px 20px;
+}
